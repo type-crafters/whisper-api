@@ -1,6 +1,0 @@
-This software is proprietary and confidential. 
-Unauthorized copying, distribution, modification, 
-or use is strictly prohibited without explicit 
-written permission from the copyright holder.
-
-Copyright (c) 2025 TypeCrafters. All rights reserved.
